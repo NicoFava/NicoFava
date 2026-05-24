@@ -6,37 +6,35 @@
 ---
 
 <a id="it"></a>
-# 👋 Ciao, sono Nicolò!  
+# 👋 Ciao, sono Nicolò Favagrossa
 
-**🌌 Esploro i segreti dell'Universo e risolvo problemi complessi unendo la Fisica delle Particelle, l'Analisi Dati e l'R&D sperimentale.** Benvenuto sul mio profilo GitHub! Sono uno studente magistrale in Fisica all'Università degli Studi di Milano, con alle spalle oltre due anni di esperienza come tecnico di laboratorio junior R&D nel settore energetico (presso il Kilometro Rosso). Il mio percorso unisce il rigore della ricerca fondamentale — dallo studio dei muoni cosmici nell'esperimento JUNO allo sviluppo di simulazioni Monte Carlo — all'approccio dinamico e pratico tipico delle startup. Attualmente sto costruendo il mio personal brand e cerco attivamente opportunità di ricerca in laboratori internazionali per contribuire alle prossime grandi scoperte della fisica sperimentale.
+Sono uno studente magistrale in Fisica (indirizzo Particelle e Astroparticelle) all'Università degli Studi di Milano. Il mio percorso si divide tra la ricerca fondamentale — in particolare l'analisi dati per l'esperimento JUNO — e l'esperienza pratica sul campo. Ho infatti lavorato per oltre due anni nel team di R&D di Prometheus, una startup del settore energetico al Kilometro Rosso.
+
+Mi piace "sporcarmi le mani" sia con il codice che in laboratorio: cerco costantemente di unire il rigore analitico del mondo accademico con la concretezza e il problem-solving tipici delle startup. Attualmente sto cercando opportunità in laboratori internazionali per continuare a fare ricerca nel campo della fisica delle alte energie.
 
 💼 [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) | ✉️ [Contattami](mailto:nicolo.favagrossa@gmail.com) | 🎓 [Università degli Studi di Milano](https://www.unimi.it/)
 
 ---
 
-## 🔍 Cosa Faccio  
-
-- ⚛️ **Fisica delle Particelle e Astroparticelle**: Studio approfondito dei raggi cosmici, dell'oscillazione dei neutrini e del background cosmogenico all'interno dei grandi rivelatori sotterranei.
-- 📊 **Analisi Dati e Modelli Statistici**: Elaborazione di grandi moli di dati, fit di verosimiglianza e analisi delle incertezze per estrarre segnali fisici dal rumore di fondo usando **C++ (CERN ROOT)** e **Python**.
-- 🔬 **R&D Sperimentale & Hardware**: Oltre 2 anni di esperienza nella gestione operativa di laboratori R&D (Prometheus S.p.A.), lavorando allo scale-up di setup sperimentali, calibrazione di sensori e validazione di modelli teorici.
-- 💻 **Sviluppo Software Scientifico**: Scrittura di algoritmi di ricostruzione eventi e ottimizzazione del codice per il calcolo ad alte prestazioni in ambiente Linux.
+## 🛠 Competenze e Strumenti
+- **Linguaggi e Tool:** C++ (CERN ROOT), Python, Bash, Git, LaTeX.
+- **Analisi Dati:** Metodi Monte Carlo, fit di verosimiglianza, analisi statistica delle incertezze ed elaborazione di grandi moli di dati per l'estrazione del segnale dal rumore di fondo.
+- **Fisica & R&D:** Fisica dei raggi cosmici, rivelatori di particelle, gestione operativa di setup sperimentali e calibrazione di sensori.
 
 ---
 
-## 🚀 Progetti in Evidenza
+## 🚀 Progetti Principali
 
-- 🔭 **[AstroLab](https://github.com/NicoFava/auger-anisotropy-scan)**: Suite avanzata in Python per l'analisi statistica dei raggi cosmici ad altissima energia. Utilizza metodi Monte Carlo per individuare clustering attorno a sorgenti extragalattiche (come Centaurus A).
-- 🌌 **[JUNO Cosmic Muon Analysis](https://github.com/NicoFava/juno-muon-analysis)**: Pipeline di analisi dati in C++/ROOT sviluppata per caratterizzare il flusso di muoni cosmici durante la fase di riempimento del rivelatore JUNO, fondamentale per la riduzione del fondo cosmogenico.
+- 🔭 **[auger-anisotropy-scan](https://github.com/NicoFava/auger-anisotropy-scan)**: Una suite avanzata in Python per l'analisi statistica dei raggi cosmici ad altissima energia. Sfrutta metodi Monte Carlo ottimizzati per individuare clustering e anisotropie attorno a sorgenti extragalattiche (come Centaurus A).
+- 🌌 **[juno-cosmic-muons-analysis](https://github.com/NicoFava/juno-cosmic-muons-analysis)**: Il framework in C++/ROOT sviluppato per il mio lavoro di tesi. È un metodo di analisi indipendente progettato per identificare e caratterizzare i muoni cosmici a partire dai primissimi dati grezzi acquisiti dal rivelatore JUNO.
 
 ---
 
-## 🤝 Restiamo in Contatto!  
+## 📫 Contatti e Altro
 
-- 🔭 **Attualmente lavoro su:** La mia Laurea Magistrale in Fisica, la costruzione del mio personal brand e la ricerca attiva di fellowship o esperienze di ricerca in laboratori internazionali (High-Energy Physics).
-- 🌱 **Sto imparando:** Metodi statistici avanzati, tecniche di Machine Learning applicate alla classificazione di eventi fisici e calcolo ad alte prestazioni (HPC).
-- 💬 **Chiedimi di:** Analisi dati con CERN ROOT, programmazione C++/Python, sfide sperimentali nei laboratori R&D o interazioni dei neutrini!
-- 📫 **Come contattarmi:** Scrivimi su [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) o via email. Sarò felice di fare due chiacchiere su fisica, esperimenti o future collaborazioni!
-- ⚡ **Fun fact:** La mia dieta infantile a base di Lego e documentari sullo spazio ha segnato inesorabilmente il mio percorso verso la fisica. Non mi è mai bastato trovare le risposte: voglio capire a fondo le domande!
+- 🔭 **In questo momento:** Sto preparando gli esami della magistrale e cerco collaborazioni, internship o fellowship in laboratori di fisica sperimentale.
+- 💡 **Fun fact:** Oltre alla fisica sono un grande appassionato di Lego e la finanza personale. Probabilmente è stata proprio l'abitudine infantile a smontare le cose per capire come funzionassero a spingermi verso questa facoltà.
+- ✉️ **Dove trovarmi:** Scrivimi su [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) o via email, rispondo sempre volentieri per una chiacchierata su fisica, codice o future collaborazioni!
 
 <br><br>
 
@@ -44,37 +42,35 @@
 ---
 
 <a id="en"></a>
-# 👋 Hey, I’m Nicolò!  
+# 👋 Hi, I'm Nicolò Favagrossa
 
-**🌌 Exploring the secrets of the Universe and solving complex problems by bridging Particle Physics, Data Analysis, and Experimental R&D.** Welcome to my GitHub! I’m a Physics Master's student at the University of Milan, with over two years of hands-on experience as an R&D Junior Lab Technician in the energy sector (Kilometro Rosso). My background combines the rigor of fundamental research—from studying cosmic muons in the JUNO experiment to developing Monte Carlo simulations—with the fast-paced, problem-solving mindset of a startup environment. I am currently building my personal brand and actively seeking international research opportunities to contribute to the next big discoveries in experimental physics.
+I'm a Master's student in Physics (Particles & Astroparticles) at the University of Milan. My background sits at the intersection of fundamental physics research—specifically data analysis for the JUNO neutrino experiment—and hands-on engineering. I spent over two years working as an R&D Lab Technician at Prometheus, an energy startup based at Kilometro Rosso.
+
+I enjoy getting my hands dirty with both code and hardware, combining the rigorous analytical approach of academia with the fast-paced problem-solving mindset of a startup. I'm currently looking for research opportunities and fellowships in international High-Energy Physics (HEP) labs.
 
 💼 [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) | ✉️ [Contact Me](mailto:nicolo.favagrossa@gmail.com) | 🎓 [University of Milan](https://www.unimi.it/)
 
 ---
 
-## 🔍 What I Do  
-
-- ⚛️ **Particle & Astroparticle Physics**: In-depth study of cosmic rays, neutrino oscillations, and cosmogenic background reduction in massive underground detectors.
-- 📊 **Data Analysis & Statistical Modeling**: Processing large datasets, performing likelihood fits, and evaluating statistical uncertainties to extract physical signals from background noise using **C++ (CERN ROOT)** and **Python**.
-- 🔬 **Experimental R&D & Hardware**: Over 2 years of operational experience in R&D laboratories (Prometheus S.p.A.), working on the scale-up of experimental setups, sensor calibration, and theoretical model validation.
-- 💻 **Scientific Software Development**: Writing event reconstruction algorithms and code optimization for high-performance computing in Linux environments.
+## 🛠 Skills & Tools
+- **Programming:** C++ (CERN ROOT), Python, Bash, Git, LaTeX.
+- **Data Analysis:** Monte Carlo methods, likelihood fits, statistical uncertainty analysis, and background noise reduction in large datasets.
+- **Physics & R&D:** Cosmic ray physics, particle detectors, operational management of experimental setups, and sensor calibration.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Main Projects
 
-- 🔭 **[AstroLab](https://github.com/NicoFava/auger-anisotropy-scan)**: Advanced Python statistical analysis suite for ultra-high-energy cosmic rays, utilizing optimized Monte Carlo methods to detect clustering around extragalactic sources (like Centaurus A).
-- 🌌 **[JUNO Cosmic Muon Analysis](https://github.com/NicoFava/juno-muon-analysis)**: C++/ROOT data analysis pipeline developed to characterize the cosmic muon flux during the filling phase of the JUNO Central Detector, essential for cosmogenic background reduction.
+- 🔭 **[auger-anisotropy-scan](https://github.com/NicoFava/auger-anisotropy-scan)**: An advanced Python suite for the statistical analysis of ultra-high-energy cosmic rays. I use optimized Monte Carlo methods to detect clustering and anisotropies around extragalactic sources like Centaurus A.
+- 🌌 **[juno-cosmic-muons-analysis](https://github.com/NicoFava/juno-cosmic-muons-analysis)**: The C++/ROOT framework I built for my Bachelor's thesis. It provides an independent analysis method to identify and characterize cosmic muons using the very first raw data from the JUNO detector.
 
 ---
 
-## 🤝 Let’s Connect & Collaborate!  
+## 📫 Get in Touch
 
-- 🔭 **I’m currently working on:** My Master's Degree in Physics, building my personal brand, and actively seeking international research internships or fellowships in High-Energy Physics laboratories.
-- 🌱 **I’m currently learning:** Advanced statistical methods, Machine Learning techniques applied to event classification in physics, and High-Performance Computing (HPC).
-- 💬 **Ask me about:** Data analysis with CERN ROOT, C++/Python programming, experimental challenges in R&D labs, or neutrino interactions!
-- 📫 **How to reach me:** Drop me a message on [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) or via email. I'm always open to discussing physics, code, or future collaborations!
-- ⚡ **Fun fact:** My childhood diet of space documentaries and Lego inevitably hardcoded my path into physics. I've always felt that just finding the answers isn't enough; I want to deeply understand the questions!
+- 🔭 **Currently:** Finishing my Master's coursework and actively seeking research internships/fellowships in experimental physics.
+- 💡 **Fun fact:** My path into physics was probably hardcoded by a childhood diet of space documentaries and Lego. I've always wanted to take things apart just to see how they work.
+- ✉️ **Contact:** Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) or via email. I'm always open to discussing physics, programming, or future collaborations!
 
 ---
 <p align="center">
