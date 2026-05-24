@@ -32,7 +32,7 @@
 
 ## 🤝 Restiamo in Contatto!  
 
-- 🔭 **Attualmente lavoro su:** La mia Laurea Magistrale in Fisica e campagne al Kilometro Rosso.
+- 🔭 **Attualmente lavoro su:** La mia Laurea Magistrale in Fisica, la costruzione del mio personal brand e il mio ruolo come tecnico di laboratorio junior al Kilometro Rosso.
 - 🌱 **Sto imparando:** Modellazione dati avanzata, tecniche di machine learning per la classificazione di eventi anomali e calcolo ad alte prestazioni (HPC).
 - 💬 **Chiedimi di:** Analisi dati con CERN ROOT, oscillazioni dei neutrini, raggi cosmici o le sfide nel passaggio da prototipo a scale-up in una startup!
 - 📫 **Come contattarmi:** Scrivimi su [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) o via email.
@@ -70,7 +70,7 @@
 
 ## 🤝 Let’s Connect & Collaborate!  
 
-- 🔭 **I’m currently working on:** My Master's Degree in Particle and Astroparticle Physics and high-pressure experimental campaigns at Kilometro Rosso.
+- 🔭 **I’m currently working on:** My Master's Degree in Physics, building my personal brand, and my role as a Junior Lab Technician at Kilometro Rosso.
 - 🌱 **I’m currently learning:** Advanced data modeling, machine learning techniques for anomalous event classification, and high-performance computing.
 - 💬 **Ask me about:** Data analysis with CERN ROOT, neutrino oscillations, cosmic rays, or the challenges of transitioning from prototype to scale-up in a startup!
 - 📫 **How to reach me:** Drop me a message on [LinkedIn](https://www.linkedin.com/in/nicolo-favagrossa/) or via email.
